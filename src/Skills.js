@@ -12,27 +12,11 @@ const Skills =() =>(
                         <li className="list-inline-item"><i className="fab fa-react"></i></li>
                        <li className="list-inline-item"><i className="fab fa-npm"></i></li>
                        <li className="list-inline-item"><i className="fab fa-python"></i></li>
-                       <li className="list-inline-item"><i className="fab fa-Cpp"></i></li>
+                       <li className="list-inline-item"><i className="fab fa-cuttlefish"></i></li>
+                       <li className="list-inline-item"><i className="fab fa-git"></i></li>
+                       <li className="list-inline-item"><i className="fab fa-github"></i></li>
                     </ul>
-                    <div className="subheading mb-3">Workflow</div>
-                    <ul className="fa-ul mb-0">
-                        <li>
-                            <span className="fa-li"><i className="fas fa-check"></i></span>
-                            Mobile-First, Responsive Design
-                        </li>
-                        <li>
-                            <span className="fa-li"><i className="fas fa-check"></i></span>
-                            Cross Browser Testing & Debugging
-                        </li>
-                        <li>
-                            <span className="fa-li"><i className="fas fa-check"></i></span>
-                            Cross Functional Teams
-                        </li>
-                        <li>
-                            <span className="fa-li"><i className="fas fa-check"></i></span>
-                            Agile Development & Scrum
-                        </li>
-                    </ul>
+                   
                 </div>
             </section>
 

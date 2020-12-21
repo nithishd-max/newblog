@@ -3,46 +3,30 @@ import React from "react"
 const Awards=() =>(
     <section className="resume-section" id="awards">
                 <div className="resume-section-content">
-                    <h2 className="mb-5">Awards & Certifications</h2>
+                    <h2 className="mb-5">Awards & Positions</h2>
                     <ul className="fa-ul mb-0">
                         <li>
                             <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
+                            Zonal First in Board of Intermediate Education AndhraPradesh.
+
                         </li>
                         <li>
                             <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
+                            Secretary and Publicity head of EmR Technical Club.
                         </li>
                         <li>
                             <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
+                            
+                            
+                            Achieved AIR 9362 rank in Jee Mains out of 12,07,058 Apllicants.
                         </li>
                         <li>
                             <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
+                           
+                            Convener of Techspardha’19 a technical fest of NIT Kurukshetra.
+
                         </li>
-                        <li>
-                            <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                        </li>
-                        <li>
-                            <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span className="fa-li"><i className="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li>
+                        
                     </ul>
                 </div>
             </section>
