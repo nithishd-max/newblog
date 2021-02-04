@@ -4241,6 +4241,19 @@ input[type=button].btn-block {
 .navbar-light .navbar-brand {
   color: rgba(0, 0, 0, 0.9);
 }
+.Nithish {
+  height: 150px;
+  width: 150px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: transform 2.0s;
+}
+.Nithish:hover{
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
   color: rgba(0, 0, 0, 0.9);
 }

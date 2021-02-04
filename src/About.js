@@ -20,10 +20,7 @@ const About =() =>(
                         <a className="social-icon" href="https://www.facebook.com/nithish.reddy.39/"><i className="fab fa-facebook-f"></i></a>
                     </div>
                 </div>
-                <a className="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/nithish.reddy.39/"><i className="fab fa-fw fa-facebook-f"></i></a>
-                        <a className="btn btn-outline-light btn-social mx-1" href="https://github.com/nithishd-max"><i className="fab fa-fw fa-github"></i></a>
-                        <a className="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.cn/in/nithish-reddy-213634156/"><i className="fab fa-fw fa-linkedin-in"></i></a>
-                        <a className="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/nithish_reddy.devireddy/"><i className="fab fa-fw fa-instagram"></i></a>
+                
                 
             </section>
 
